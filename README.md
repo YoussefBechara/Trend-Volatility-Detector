@@ -2,7 +2,7 @@
 
 ## Description
 A sophisticated Python-based tool for detecting and analyzing market trends and volatility patterns in financial markets. This project combines technical analysis indicators with statistical methods to identify market conditions and potential trading opportunities.
-
+[<img src="path/to/image.png">](https://github.com/YoussefBechara/Trend-Volatility-Detector/blob/main/download.png)
 ## Features
 - Trend identification and analysis
 - Volatility measurement and forecasting
